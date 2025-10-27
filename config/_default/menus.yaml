@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 6bfccfc8-c37d-8a98-01b7-e40da6b83a64
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 651a8dea-013c-4de9-be6d-0fe53ac965e7
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: a7cec55c-b0af-81b5-02fb-fe69d05ab806
+  name: In-class Activities, Assignments, and Quizzes
+  pageRef: /pages/in-class-activities-assignments-and-quizzes
+  weight: 30
+- identifier: 325f907e-3fb1-6f23-ba1f-7551a4e101c1
+  name: Interview Tests
+  pageRef: /pages/interview-tests
+  weight: 40
+- identifier: 213bd9b6-4354-9ce5-d573-7040572144fd
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 50
